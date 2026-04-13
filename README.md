@@ -18,6 +18,8 @@ A command-line restaurant order management system built with C++ featuring custo
 - **Vector**: Completed orders storage
 
 ## 🏗️ Project Structure
+
+```
 restaurant-order-system/
 ├── MenuItem.h          # Menu item class
 ├── Order.h             # Order class
@@ -27,6 +29,7 @@ restaurant-order-system/
 ├── Restaurant.h        # Main restaurant system
 ├── main.cpp            # User interface
 └── README.md           # Project documentation
+```
 
 ## 🚀 How to Run
 
