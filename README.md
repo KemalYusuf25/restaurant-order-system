@@ -27,6 +27,7 @@ restaurant-order-system/
 ├── Restaurant.h        # Main restaurant system
 ├── main.cpp            # User interface
 └── README.md           # Project documentation
+
 ## 🚀 How to Run
 
 ### Prerequisites
@@ -62,8 +63,8 @@ g++ -std=c++11 main.cpp -o restaurant
 - Implementation of Linked List, Queue, and Stack from scratch
 - Object-Oriented Programming principles
 - Dynamic memory management
-- File I/O operations (planned)
 - Command-line interface design
+- Memory management with constructors and destructors
 
 ## 🔮 Future Enhancements
 
@@ -75,7 +76,7 @@ g++ -std=c++11 main.cpp -o restaurant
 
 ## 👨‍💻 Author
 
-Kemal Yusuf Atabey - Computer Engineering Student
+**Kemal Yusuf Atabey** - Computer Engineering Student
 
 ## 📝 License
 
